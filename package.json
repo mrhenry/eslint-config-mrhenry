@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-mrhenry",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mr. Henry's eslint config",
   "main": "index.js",
   "scripts": {

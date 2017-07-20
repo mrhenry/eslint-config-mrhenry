@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mrhenry/eslint-config-mrhenry#readme",
   "dependencies": {
-    "eslint-config-airbnb-base"
+    "eslint-config-airbnb-base": "^11.2.0"
   }
 }
